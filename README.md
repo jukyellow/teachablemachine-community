@@ -45,6 +45,7 @@ You have a few options:
 
 * [Teachable Machine Node Library for image models](https://github.com/tr7zw/teachablemachine-node-example)
 * [Teachable Machine Mobile for image models](https://github.com/mstale007/Teachable_Machine_Mobile/tree/master)
+* [Teachable Machine Mobile(Capture camera image in real time and predict) for image models](https://github.com/jukyellow/teachable-machine-proj/tree/main/image-classification-mobile-desktop)
 
 
 ## Disclaimer
